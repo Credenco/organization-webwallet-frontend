@@ -1,0 +1,7 @@
+.p-dropdown-trigger {
+    width: unset;
+}
+
+.p-dropdown:not(.p-disabled).p-focus {
+    box-shadow: none;
+}

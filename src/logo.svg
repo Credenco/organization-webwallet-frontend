@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="86" height="86" viewBox="0 0 280 249" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <g id="Logo-zonder-tekst">
+        <g id="Group" transform="translate(19.022644 16)">
+            <path d="M0 21.8109C0 9.76535 9.76536 0 21.8109 0C33.8565 0 43.6219 9.76535 43.6219 21.8109C43.6219 33.8565 33.8565 43.6219 21.8109 43.6219C9.76536 43.6219 0 33.8565 0 21.8109L0 21.8109Z" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 21.8109C0 9.76535 9.76536 0 21.8109 0C33.8565 0 43.6219 9.76535 43.6219 21.8109C43.6219 33.8565 33.8565 43.6219 21.8109 43.6219C9.76536 43.6219 0 33.8565 0 21.8109L0 21.8109Z" transform="translate(96.16641 0)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 21.8109C0 9.76535 9.98743 0 22.3066 0C34.6259 0 44.6133 9.76535 44.6133 21.8109C44.6133 33.8565 34.6259 43.6219 22.3066 43.6219C9.98743 43.6219 0 33.8565 0 21.8109L0 21.8109Z" transform="translate(191.3414 0)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 21.8109C0 9.76536 9.76536 0 21.8109 0C33.8565 0 43.6219 9.76536 43.6219 21.8109C43.6219 33.8565 33.8565 43.6219 21.8109 43.6219C9.76536 43.6219 0 33.8565 0 21.8109L0 21.8109Z" transform="translate(0 85.26094)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 21.8109C0 9.76536 9.76536 0 21.8109 0C33.8565 0 43.6219 9.76536 43.6219 21.8109C43.6219 33.8565 33.8565 43.6219 21.8109 43.6219C9.76536 43.6219 0 33.8565 0 21.8109L0 21.8109Z" transform="translate(96.16641 85.26094)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 21.8109C0 9.76536 9.98743 0 22.3066 0C34.6259 0 44.6133 9.76536 44.6133 21.8109C44.6133 33.8565 34.6259 43.6219 22.3066 43.6219C9.98743 43.6219 0 33.8565 0 21.8109L0 21.8109Z" transform="translate(191.3414 85.26094)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 22.3066C0 9.98743 9.76536 0 21.8109 0C33.8565 0 43.6219 9.98743 43.6219 22.3066C43.6219 34.6259 33.8565 44.6133 21.8109 44.6133C9.76536 44.6133 0 34.6259 0 22.3066L0 22.3066Z" transform="translate(0 170.52191)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 22.3066C0 9.98743 9.76536 0 21.8109 0C33.8565 0 43.6219 9.98743 43.6219 22.3066C43.6219 34.6259 33.8565 44.6133 21.8109 44.6133C9.76536 44.6133 0 34.6259 0 22.3066L0 22.3066Z" transform="translate(96.16641 170.52191)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M0 22.3066C0 9.98743 9.98743 0 22.3066 0C34.6259 0 44.6133 9.98743 44.6133 22.3066C44.6133 34.6259 34.6259 44.6133 22.3066 44.6133C9.98743 44.6133 0 34.6259 0 22.3066L0 22.3066Z" transform="translate(191.3414 170.52191)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F528F" stroke-width="11.3333" />
+            <path d="M52.1196 0L0 9.07662e-05" transform="translate(139.78885 192.33282)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F518E" stroke-width="11.3333" />
+            <path d="M64.951 54.3766L0 0" transform="translate(37.67343 122.93439)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F518E" stroke-width="11.3333" />
+            <path d="M0 54.3766L64.9514 0" transform="translate(37.67343 37.67354)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F518E" stroke-width="11.3333" />
+            <path d="M0 0L52.1202 0" transform="translate(139.7883 21.810944)" id="Shape" fill="none" fill-rule="evenodd" stroke="#2F518E" stroke-width="11.3333" />
+        </g>
+        <path d="M0 0L274 0L274 249L0 249L0 0Z" id="Rectangle" fill="#D3D3D3" fill-opacity="0" fill-rule="evenodd" stroke="none" />
+    </g>
+</svg>
